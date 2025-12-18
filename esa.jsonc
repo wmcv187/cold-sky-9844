@@ -1,0 +1,8 @@
+{
+  "name": "svelte-template",
+  "installCommand": "npm install",
+  "assets": {
+    "directory": "./build",
+    "notFoundStrategy": "404Page"
+  }
+}
